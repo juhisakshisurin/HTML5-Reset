@@ -13,5 +13,4 @@ There's no perfect setup for every developer, and this one is mine — if there 
 5. Removed extraneous comments
 
 ## Contribution
-
-This project was updated as part of a Git and GitHub collaboration experiment.
+I Juhi Surin have updated the readme here as part of a Git and GitHub collaboration practical experiment.
